@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.headerTop{
+    background-color: rgb(68, 68, 233);
+    padding-bottom: 0px,20px;
+    
+}
+
+.headerTop a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    
+}
