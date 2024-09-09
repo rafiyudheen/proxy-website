@@ -3,12 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-.headerTop{
+footer, .headerTop{
     background-color: rgb(68, 68, 233);
     padding-bottom: 0px,20px;
     width: 100%;
 }
-
+footer{
+    height: 100px;
+}
 .headerTop a{
     text-decoration: none;
     color: white;
@@ -20,4 +22,5 @@
 }
 .card-tile{
     height: 100%;
+    margin: 0;
 }
